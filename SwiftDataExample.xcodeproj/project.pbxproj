@@ -12,6 +12,7 @@
 		F6E957AD2B1CBB670067B7A9 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6E957AC2B1CBB670067B7A9 /* Item.swift */; };
 		F6E957AF2B1CBB690067B7A9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F6E957AE2B1CBB690067B7A9 /* Assets.xcassets */; };
 		F6E957B22B1CBB690067B7A9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F6E957B12B1CBB690067B7A9 /* Preview Assets.xcassets */; };
+		F6E957B92B1CBBA40067B7A9 /* Expense.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6E957B82B1CBBA40067B7A9 /* Expense.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		F6E957AC2B1CBB670067B7A9 /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
 		F6E957AE2B1CBB690067B7A9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F6E957B12B1CBB690067B7A9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F6E957B82B1CBBA40067B7A9 /* Expense.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Expense.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				F6E957A82B1CBB670067B7A9 /* SwiftDataExampleApp.swift */,
 				F6E957AA2B1CBB670067B7A9 /* ContentView.swift */,
 				F6E957AC2B1CBB670067B7A9 /* Item.swift */,
+				F6E957B82B1CBBA40067B7A9 /* Expense.swift */,
 				F6E957AE2B1CBB690067B7A9 /* Assets.xcassets */,
 				F6E957B02B1CBB690067B7A9 /* Preview Content */,
 			);
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F6E957B92B1CBBA40067B7A9 /* Expense.swift in Sources */,
 				F6E957AB2B1CBB670067B7A9 /* ContentView.swift in Sources */,
 				F6E957AD2B1CBB670067B7A9 /* Item.swift in Sources */,
 				F6E957A92B1CBB670067B7A9 /* SwiftDataExampleApp.swift in Sources */,
